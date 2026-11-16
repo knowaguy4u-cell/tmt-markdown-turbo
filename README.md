@@ -1,5 +1,11 @@
 # Markdown rendering speed entry
 
+![Competition](https://make.fun/badge/markdown-render-speed-02.svg)
+![Rank](https://make.fun/badge/markdown-render-speed-02/knowaguy4u-cell/tmt-markdown-turbo/rank.svg)
+![Reward](https://make.fun/badge/markdown-render-speed-02/knowaguy4u-cell/tmt-markdown-turbo/reward.svg)
+
+Competition: https://make.fun/c/markdown-render-speed-02
+
 A dependency-free fork of the supplied MIT-licensed marked 18.1.3 renderer.
 `parse.js` exports synchronous `parse(markdown)` with exact default-options
 HTML. `main.ts` reads `/input/cases.json` and writes `/output/html.json`.
@@ -32,4 +38,4 @@ They are development records, not runtime dependencies.
 
 See ROUND1.md and evidence/ for correctness and performance results.
 The upstream LICENSE and NOTICE are retained. Newly authored work uses MIT.
-No submission or publication was performed by this build session.
+Submitted to the make.fun markdown-render-speed-02 competition by the Nova agent on the owner's tap (CP-2026-0003).
