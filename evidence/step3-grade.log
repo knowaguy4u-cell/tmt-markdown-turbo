@@ -1,0 +1,91 @@
+kit markdown-render-speed-02 dev: verified 27 files
+practice instance 7aa948e8ef5bfaea390c499aa77cd4c4399f9d758f9ae76b36da28e5c94450bf (drawn from round 33735412): 1 input and 1 reference files
+bot /home/hatch/workspace/your_files/money-pipeline/makefun-markdown/recorded @ worktree@1fad65e724b1: 11 entries
+grading: two executions
+markdown-render-speed-02 dev, driver process
+bot       /home/hatch/workspace/your_files/money-pipeline/makefun-markdown/recorded @ worktree@1fad65e724b1
+status    finished
+instance  the practice instance, drawn from drand round 33735412 (dataset_sha256 7aa948e8ef5bfaea390c499aa77cd4c4399f9d758f9ae76b36da28e5c94450bf)
+scores    {"cases_passed":720,"cases_total":720,"passed":1} (the scorer's scores.json)
+checks    720 of 720 points over 71 checks (the scorer's checks.json)
+  CommonMark 0.31.2 spec/cm-tabs  11 of 11: Tabs
+  CommonMark 0.31.2 spec/cm-backslash-escapes  13 of 13: Backslash escapes
+  CommonMark 0.31.2 spec/cm-entity-and-numeric-character-references  17 of 17: Entity and numeric character references
+  CommonMark 0.31.2 spec/cm-precedence  1 of 1: Precedence
+  CommonMark 0.31.2 spec/cm-thematic-breaks  19 of 19: Thematic breaks
+  CommonMark 0.31.2 spec/cm-atx-headings  18 of 18: ATX headings
+  CommonMark 0.31.2 spec/cm-setext-headings  27 of 27: Setext headings
+  CommonMark 0.31.2 spec/cm-indented-code-blocks  12 of 12: Indented code blocks
+  CommonMark 0.31.2 spec/cm-fenced-code-blocks  29 of 29: Fenced code blocks
+  CommonMark 0.31.2 spec/cm-html-blocks  44 of 44: HTML blocks
+  CommonMark 0.31.2 spec/cm-link-reference-definitions  27 of 27: Link reference definitions
+  CommonMark 0.31.2 spec/cm-paragraphs  8 of 8: Paragraphs
+  CommonMark 0.31.2 spec/cm-blank-lines  1 of 1: Blank lines
+  CommonMark 0.31.2 spec/cm-block-quotes  25 of 25: Block quotes
+  CommonMark 0.31.2 spec/cm-list-items  48 of 48: List items
+  CommonMark 0.31.2 spec/cm-lists  26 of 26: Lists
+  CommonMark 0.31.2 spec/cm-inlines  1 of 1: Inlines
+  CommonMark 0.31.2 spec/cm-code-spans  22 of 22: Code spans
+  CommonMark 0.31.2 spec/cm-emphasis-and-strong-emphasis  132 of 132: Emphasis and strong emphasis
+  CommonMark 0.31.2 spec/cm-links  90 of 90: Links
+  CommonMark 0.31.2 spec/cm-images  22 of 22: Images
+  CommonMark 0.31.2 spec/cm-autolinks  19 of 19: Autolinks
+  CommonMark 0.31.2 spec/cm-raw-html  20 of 20: Raw HTML
+  CommonMark 0.31.2 spec/cm-hard-line-breaks  15 of 15: Hard line breaks
+  CommonMark 0.31.2 spec/cm-soft-line-breaks  2 of 2: Soft line breaks
+  CommonMark 0.31.2 spec/cm-textual-content  3 of 3: Textual content
+  GFM 0.29 spec extensions/gfm-tables-extension  8 of 8: Tables (extension)
+  GFM 0.29 spec extensions/gfm-task-list-items-extension  2 of 2: Task list items (extension)
+  GFM 0.29 spec extensions/gfm-strikethrough-extension  3 of 3: Strikethrough (extension)
+  GFM 0.29 spec extensions/gfm-autolinks-extension  14 of 14: Autolinks (extension)
+  GFM 0.29 spec extensions/gfm-disallowed-raw-html-extension  1 of 1: Disallowed Raw HTML (extension)
+  Generated documents/doc-01  1 of 1: Document 1 (54126 characters)
+  Generated documents/doc-02  1 of 1: Document 2 (61137 characters)
+  Generated documents/doc-03  1 of 1: Document 3 (96826 characters)
+  Generated documents/doc-04  1 of 1: Document 4 (91143 characters)
+  Generated documents/doc-05  1 of 1: Document 5 (86417 characters)
+  Generated documents/doc-06  1 of 1: Document 6 (84833 characters)
+  Generated documents/doc-07  1 of 1: Document 7 (21698 characters)
+  Generated documents/doc-08  1 of 1: Document 8 (63331 characters)
+  Generated documents/doc-09  1 of 1: Document 9 (55474 characters)
+  Generated documents/doc-10  1 of 1: Document 10 (75756 characters)
+  Generated documents/doc-11  1 of 1: Document 11 (86306 characters)
+  Generated documents/doc-12  1 of 1: Document 12 (110752 characters)
+  Generated documents/doc-13  1 of 1: Document 13 (65212 characters)
+  Generated documents/doc-14  1 of 1: Document 14 (87460 characters)
+  Generated documents/doc-15  1 of 1: Document 15 (50480 characters)
+  Generated documents/doc-16  1 of 1: Document 16 (31934 characters)
+  Generated documents/doc-17  1 of 1: Document 17 (35942 characters)
+  Generated documents/doc-18  1 of 1: Document 18 (98813 characters)
+  Generated documents/doc-19  1 of 1: Document 19 (64095 characters)
+  Generated documents/doc-20  1 of 1: Document 20 (89316 characters)
+  Generated documents/doc-21  1 of 1: Document 21 (82003 characters)
+  Generated documents/doc-22  1 of 1: Document 22 (105606 characters)
+  Generated documents/doc-23  1 of 1: Document 23 (52086 characters)
+  Generated documents/doc-24  1 of 1: Document 24 (62351 characters)
+  Generated documents/doc-25  1 of 1: Document 25 (62250 characters)
+  Generated documents/doc-26  1 of 1: Document 26 (94366 characters)
+  Generated documents/doc-27  1 of 1: Document 27 (22399 characters)
+  Generated documents/doc-28  1 of 1: Document 28 (80021 characters)
+  Generated documents/doc-29  1 of 1: Document 29 (98813 characters)
+  Generated documents/doc-30  1 of 1: Document 30 (90781 characters)
+  Generated documents/doc-31  1 of 1: Document 31 (40252 characters)
+  Generated documents/doc-32  1 of 1: Document 32 (27701 characters)
+  Generated documents/doc-33  1 of 1: Document 33 (97276 characters)
+  Generated documents/doc-34  1 of 1: Document 34 (41351 characters)
+  Generated documents/doc-35  1 of 1: Document 35 (110126 characters)
+  Generated documents/doc-36  1 of 1: Document 36 (96812 characters)
+  Generated documents/doc-37  1 of 1: Document 37 (98909 characters)
+  Generated documents/doc-38  1 of 1: Document 38 (25995 characters)
+  Generated documents/doc-39  1 of 1: Document 39 (47641 characters)
+  Generated documents/doc-40  1 of 1: Document 40 (98689 characters)
+cost      unpriced over 0 usage lines (provenance none)
+authored  0.000000000 of 316 counted lines
+eligible  ranked yes, prize no, efficiency no (no_transcripts, coverage_below_gate, cost_unpriced)
+action_log_sha256 922cc3181070c1697a1f407e5b1319c048f81fa00c9f02e6ec0412977398d846
+result_sha256     2d028955471c887af2d7b4812b44e775d80e67a17e005d4820a56d8209894e97
+L1 regrade        reproduced byte for byte
+entry             not a house account's, not a baseline, no transcripts (--house, --baseline and the transcripts are part of the score)
+this result_sha256 cannot equal the server's:
+  - node: the server's harness runs v26.13.1, this one v24.22.1
+note: process driver: the bot ran on this machine unisolated and the score records no image digest; a server grading in its docker sandbox records one, so only a server on the process driver (a dev server) records this result_sha256

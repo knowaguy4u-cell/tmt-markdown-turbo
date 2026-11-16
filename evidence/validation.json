@@ -1,0 +1,21 @@
+{
+  "grades": {
+    "1": {
+      "cases_passed": 720,
+      "cases_total": 720,
+      "grade_log_sha256": "8371c6be5bdb06966c140b48032fe3ebb5012c3f4c538fbff40a7ff44de5e842"
+    },
+    "2": {
+      "cases_passed": 720,
+      "cases_total": 720,
+      "grade_log_sha256": "fc8adf9b724d79d33af7840120f3118527dcc795b09bb0a57d793b984b18c3e8"
+    },
+    "3": {
+      "cases_passed": 720,
+      "cases_total": 720,
+      "grade_log_sha256": "9ea40baf69a5620920fd0b5ecda10fa8ef5bbc63083f5c6f616d5b27a67a97f2"
+    }
+  },
+  "output_sha256": "e7e89c4fba2c45b1c4aa96c46c987e46c75a9fcdd08916b58ae7f2a7d7851724",
+  "parse_sha256": "675b4f8e3af429a7ed60c5f1fbb6ccf7eb77f904a6345b4421f508d315a85e3b"
+}

@@ -1,0 +1,30 @@
+{"pair": 1, "name": "baseline", "cpu_seconds": 1.828325, "wall_seconds": 1.4758741619998546}
+{"pair": 1, "name": "entry", "cpu_seconds": 1.6935860000000007, "wall_seconds": 1.316438527000173}
+{"pair": 2, "name": "entry", "cpu_seconds": 1.5741609999999984, "wall_seconds": 1.220622314999673}
+{"pair": 2, "name": "baseline", "cpu_seconds": 1.9278200000000005, "wall_seconds": 1.557347420000042}
+{"pair": 3, "name": "baseline", "cpu_seconds": 1.8108650000000015, "wall_seconds": 1.7356065839994699}
+{"pair": 3, "name": "entry", "cpu_seconds": 1.7082039999999985, "wall_seconds": 1.684910003999903}
+{"pair": 4, "name": "entry", "cpu_seconds": 1.7333380000000016, "wall_seconds": 2.9661885850000544}
+{"pair": 4, "name": "baseline", "cpu_seconds": 2.0132590000000015, "wall_seconds": 2.9118383719996928}
+{"pair": 5, "name": "baseline", "cpu_seconds": 1.980883999999996, "wall_seconds": 2.1920543980004368}
+{"pair": 5, "name": "entry", "cpu_seconds": 1.6766229999999993, "wall_seconds": 1.7322346939999989}
+{"pair": 6, "name": "entry", "cpu_seconds": 1.6121079999999992, "wall_seconds": 1.2222061310003483}
+{"pair": 6, "name": "baseline", "cpu_seconds": 1.8504930000000037, "wall_seconds": 2.1562061300001005}
+{"pair": 7, "name": "baseline", "cpu_seconds": 1.824693, "wall_seconds": 1.4212610940003287}
+{"pair": 7, "name": "entry", "cpu_seconds": 1.6050730000000009, "wall_seconds": 1.2421491500008415}
+{"pair": 8, "name": "entry", "cpu_seconds": 1.6144449999999964, "wall_seconds": 1.2637806430002456}
+{"pair": 8, "name": "baseline", "cpu_seconds": 1.9718839999999993, "wall_seconds": 1.8870047579994207}
+{"pair": 9, "name": "baseline", "cpu_seconds": 1.7229840000000038, "wall_seconds": 1.3334661300004882}
+{"pair": 9, "name": "entry", "cpu_seconds": 1.5880380000000045, "wall_seconds": 1.245426198000132}
+{
+  "node": "v24.22.1",
+  "method": "RUSAGE_CHILDREN user+system; fresh node; full driver I/O; one warmup each; 9 alternating pairs",
+  "median_cpu_seconds": {
+    "baseline": 1.8504930000000037,
+    "entry": 1.6144449999999964
+  },
+  "speedup": 1.1462099978630476,
+  "cpu_reduction_percent": 12.755952062504793,
+  "output_sha256": "e7e89c4fba2c45b1c4aa96c46c987e46c75a9fcdd08916b58ae7f2a7d7851724",
+  "official_heat": false
+}

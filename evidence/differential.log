@@ -1,0 +1,13 @@
+{
+  "node": "v24.22.1",
+  "counts": {
+    "spec": 680,
+    "practiceDocuments": 40,
+    "generatedDocuments": 160,
+    "random": 12000,
+    "targeted": 13
+  },
+  "total": 12893,
+  "outputDigest": "4464178d2ffbb1a27a659fb456a529440895b57c77a99dcae199538c99f27e46",
+  "mismatches": 0
+}
