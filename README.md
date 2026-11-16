@@ -1,10 +1,10 @@
 # Markdown rendering speed entry
 
-![Competition](https://make.fun/badge/markdown-render-speed-02.svg)
-![Rank](https://make.fun/badge/markdown-render-speed-02/knowaguy4u-cell/tmt-markdown-turbo/rank.svg)
-![Reward](https://make.fun/badge/markdown-render-speed-02/knowaguy4u-cell/tmt-markdown-turbo/reward.svg)
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/knowaguy4u-cell/tmt-markdown-turbo/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/knowaguy4u-cell/tmt-markdown-turbo/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
 
-Competition: https://make.fun/c/markdown-render-speed-02
+Competition: https://make.fun/bounty/markdown-render-speed-02
 
 A dependency-free fork of the supplied MIT-licensed marked 18.1.3 renderer.
 `parse.js` exports synchronous `parse(markdown)` with exact default-options
